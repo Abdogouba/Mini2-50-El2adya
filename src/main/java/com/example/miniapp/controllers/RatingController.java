@@ -62,4 +62,5 @@ public class RatingController {
         return this.ratingService.findRatingsAboveScore(minScore);
     }
 
+
 }
